@@ -36,7 +36,7 @@ This project simplifies complex hardware-software integration for robotic tile w
 
 - 🟣 **Web-Based Control:** Provides a user-friendly interface for manual and automatic operation modes, enhancing flexibility.
 
-- 🟡 **Modular Architecture:** Combines Python, JavaScript, and Arduino, and Raspberry code for a scalable, maintainable system.
+- 🟡 **Modular Architecture:** Combines Python, JavaScript, Arduino, and Raspberry Pi code for a scalable, maintainable system.
 
 ---
 
@@ -78,3 +78,4 @@ Using npm:
   ```bash
   npm start
   ```
+
