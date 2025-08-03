@@ -73,3 +73,8 @@ Using npm:
   ```bash
   npm install
   ```
+4. **Start Application:**
+
+  ```bash
+  npm start
+  ```
